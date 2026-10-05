@@ -1,0 +1,15 @@
+# Compiler output
+/build/
+*.exe
+*.o
+*.out
+# Local demo accounts and bookings (includes demo passwords)
+launch_data.txt
+launch_data.tmp
+bst_output.txt
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
